@@ -9,6 +9,6 @@ There create a new app, put a desired name and description and on the redirect U
 
 Once the app os created click on settings and copy your Client_ID and paste it on the code where it says SPOTIFY_CLIENT_ID.
 
-Then click on view client secret and paste it on SPOTIFY_CLIENT_SECRET.
+Then click on view client secret and paste it on SPOTIFY_SECRET_ID.
 
 Run the code authorize your profile and you are good to go.
